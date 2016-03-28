@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.morellib.chooseyourlanguagedemo.MainActivity">
+    <item
+        android:id="@+id/language"
+        android:title="LGN"
+        app:showAsAction="never" />
+</menu>
